@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="fa">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        @font-face{
+            font-family: "vazir";
+            src: url("Vazir.ttf")
+            format("truetype");
+        }
+        *{
+            font-family: vazir;
+            padding: 0;
+            margin: 0;
+            box-sizing: border-box;
+            list-style-type: none;
+        }
+        h1{
+            text-align: center;
+            padding: 18px;
+        }
+    </style>
+</head>
+<body>
+    <h1>سلام به بچه های xstack</h1>
+    <p>سلام من امیر هستم و تازه با تیم xstack آشنا شدم و میخوام فعالیتم رو در گیت هاب آغاز کنم .</p>
+
+    <p>من حوضه ی فعالیتم فرانت اند و تیمی کار میکنم و دوست دارم در کنار برنامه نویسی در کنار هم خوش و پیروز باشیم</p>
+</body>
+</html>
